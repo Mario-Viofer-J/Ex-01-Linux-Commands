@@ -1,5 +1,7 @@
 # Ex-01-Linux-Commands
 
+### NAME: MARIO VIOFER J
+### REGISTER NO: 212223100032
 
 ## Aim:
 
@@ -223,20 +225,11 @@ The find command is used to find a particular file within a directory.
 Syntax: find.-name”*.pdf”
 
 
+## Output:
 
+![image](https://github.com/user-attachments/assets/4cc5aeaa-67e0-4d3f-b7e7-c83b8ad00e89)
 
-
-
-
-
-
-
-
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/0d68b4c2-a7fc-409d-82fa-4d8caa16e26e)
 
 
 
